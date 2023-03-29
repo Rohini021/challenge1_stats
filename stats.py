@@ -1,6 +1,3 @@
-import json
-from collections import Counter
-
 def add_entry_to_stats(stats: dict, entry: dict) -> dict:
     try:
         print("\nAdd entry to stats")
